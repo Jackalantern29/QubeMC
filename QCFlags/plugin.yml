@@ -1,0 +1,6 @@
+name: QCFlags
+version: 1.0
+description: QCFlags
+main: com.Jackalantern29.QCFlags.QubeMC
+author: Jackalantern29
+depend: [WorldGuard]
