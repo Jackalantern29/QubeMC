@@ -1,0 +1,57 @@
+ParkourLobbyMessage: '&6You have entered the Parkour lobby.'
+ParkourEasyMessage: '[&9Parkour&f] Difficulty: &2Easy &f- Reward: &a$2500'
+ParkourMediumMessage: '[&9Parkour&f] Difficulty: &6Medium &f- Reward: &a$5000'
+ParkourHardMessage: '[&9Parkour&f] Difficulty: &4Hard &f- Reward: &a$10000'
+ParkourLeaveMessage: '&cYou have quit the parkour!'
+NotInParkourMessage: '&cYou are not in a parkour!'
+
+
+Lobby:
+  World: 'world'
+  X: 0
+  Y: 0
+  Z: 0
+  Yaw: 0
+  Pitch: 0
+Easy:
+  World: 'world'
+  X: 0
+  Y: 0
+  Z: 0
+  Yaw: 0
+  Pitch: 0
+Medium:
+  Checkpoint1:
+    World: 'world'
+    X: 0
+    Y: 0
+    Z: 0
+    Yaw: 0
+    Pitch: 0
+  World: 'world'
+  X: 0
+  Y: 0
+  Z: 0
+  Yaw: 0
+  Pitch: 0
+Hard:
+  Checkpoint1:
+    World: 'world'
+    X: 0
+    Y: 0
+    Z: 0
+    Yaw: 0
+    Pitch: 0
+  Checkpoint2:
+    World: 'world'
+    X: 0
+    Y: 0
+    Z: 0
+    Yaw: 0
+    Pitch: 0
+  World: 'world'
+  X: 0
+  Y: 0
+  Z: 0
+  Yaw: 0
+  Pitch: 0

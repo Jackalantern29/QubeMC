@@ -1,0 +1,7 @@
+name: QCParkour
+description: QubeCraft's Parkour Plugin
+version: 1.0
+main: com.Jackalantern29.QCParkour.QubeCraft
+commands:
+  parkour:
+  setparkour:
