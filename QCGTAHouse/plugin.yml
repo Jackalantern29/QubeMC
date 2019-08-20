@@ -1,0 +1,8 @@
+name: QCGTAHouse
+version: 1.0.1
+description: Houses
+main: com.Jackalantern29.QCGTAHouse.QubeMC
+author: Jackalantern29
+depend: [WorldGuard, WGRegionEvents, Vault]
+softdepend: [WorldEdit]
+commands:
