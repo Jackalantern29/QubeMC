@@ -1,0 +1,7 @@
+name: QCHolograms
+desciption: QubeCraft Hologram Plugin
+version: 1.0
+main: com.Jackalantern29.QCHolograms.QubeCraft
+author: Jackalantern29
+commands:
+  hologram:
