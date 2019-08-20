@@ -1,0 +1,4 @@
+Prefix: '&f[&bQubeCraft&f] '
+SilktouchSpawnerCooldown: '&cYou are too tired to mine another mob spawner please wait %time%.'
+SilktouchSpawnerSuccess: '&aYou have sucessfully mined a mob spawner.'
+SpawnerShattered: '&aThe mob spawner shattered into pieces of iron.'
