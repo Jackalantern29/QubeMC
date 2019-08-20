@@ -1,0 +1,19 @@
+name: QCRewards
+version: 2.1.1
+description: QCRewards
+main: com.Jackalantern29.QCRewards.QubeMC
+author: Jackalantern29
+depend: [Vault]
+commands:
+  qubecoins:
+    description: QC Command.
+    usage: /<command>
+    aliases: [qc]
+  givequbecoins:
+    description: GiveQC Command.
+    usage: /<command>
+    aliases: [giveqc]
+  qubecoinstop:
+    description: QCTop Command.
+    usage: /<command>
+    aliases: [qctop]

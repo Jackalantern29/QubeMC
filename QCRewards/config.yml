@@ -1,0 +1,20 @@
+OnlineTime: 600
+PurchaseMessage: '&3[&bCoinShop&3] &aYou have successfully purchased this item.'
+NotEnoughCoins: '&3[&bCoinShop&3] &cYou do not have enough coins to purchase this item.'
+SignTitle: '[CoinShop]'
+In-GameMoney: 'In-Game Money'
+Experience: 'Experience'
+QCAmounts: '&bYou have %coins%'
+QCPlayerAmounts: '&bPlayer has %coins%'
+PlayerIsNotOnline: '&cPlayer is not online'
+InventoryFull: '&cYou cannot purchase items when your inventory is full.'
+Skill1000: '&9The skill "%skill%" is already maxed out.'
+
+MySQL:
+  UseMySQL: false
+  Host: ""
+  Database: ""
+  User: ""
+  Password: ""
+Command:
+  - "Hello:msg %player% Hello there, %player%!"
