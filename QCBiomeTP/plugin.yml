@@ -1,0 +1,9 @@
+name: QCBiomeTP
+version: 1.0
+description: QubeCraft Biome Portal Teleporter
+main: com.Jackalantern29.QubeCraft.QubeCraft
+author: Jackalantern29
+commands:
+  biomeportal:
+    description: BiomePortal Command
+    usage: /<command>
