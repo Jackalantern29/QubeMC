@@ -1,0 +1,9 @@
+name: QCFlashlight
+version: 1.0
+description: QubeCraft Flashlight
+main: com.Jackalantern29.QCFlashlight.QubeCraft
+author: Jackalantern29
+commands:
+  flashlight:
+    description: Flashlight Command
+    usage: /<command>
