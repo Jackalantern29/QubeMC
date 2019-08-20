@@ -1,0 +1,13 @@
+name: SurvivalWorldEdit
+author: Jackalantern29
+version: 1.0
+main: com.Jackalantern29.SurvivalWorldEdit.QubeMC
+
+commands:
+    set:
+    wand:
+    undo:
+    redo:
+    tree:
+    replace:
+    count:
