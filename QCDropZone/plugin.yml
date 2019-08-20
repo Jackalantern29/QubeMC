@@ -1,0 +1,11 @@
+name: QCDropzone
+version: 1.0
+description: DropZone
+main: com.Jackalantern29.QCDropZone.QubeCraft
+author: Jackalantern29
+depend: [Factions, PvPManager]
+commands:
+  dropzone:
+    description: DropZone Command.
+    usage: /<command>
+    aliases: [dz]
