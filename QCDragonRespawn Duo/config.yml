@@ -1,0 +1,25 @@
+BroadcastMessage: "&d[{dragon}&d] &cSlain by &e{player}. &cMost damage dealt by &e{damager}."
+DragonKillerStatueID1: 99
+DragonDamagerStatueID1: 101
+DragonKillerStatueID2: 100
+DragonDamagerStatueID2: 103
+DragonKillerSign1:
+  World: world
+  X: -15
+  Y: 74
+  Z: 9
+DragonDamagerSign1:
+  World: world
+  X: -9
+  Y: 74
+  Z: 15
+DragonKillerSign2:
+  World: world
+  X: -11
+  Y: 74
+  Z: 10
+DragonDamagerSign2:
+  World: world
+  X: -10
+  Y: 74
+  Z: 11

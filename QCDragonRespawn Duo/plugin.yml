@@ -1,0 +1,7 @@
+name: QCDragonRespawn
+description: Respawn EnderDragon
+main: com.Jackalantern29.QCDragonRespawn.QubeMC
+version: 1.0
+author: Jackalantern29
+commands:
+  respawndragon:
