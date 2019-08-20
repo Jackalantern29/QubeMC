@@ -1,0 +1,7 @@
+ProtectionTime: 5
+SpawnProtectionOver: '&cYour spawn protection has worn off!'
+SetSpawn: '&aYou have successfully added a spawn!'
+NoSpawn: '&cThere is currently no spawn set.'
+AlreadyPlaying: '&cYou are already playing the game!'
+NowPlayingGame: '&aYou are now playing GTA!'
+CooldownMsg: '&cThis command is currently on cooldown for %time% seconds.'
