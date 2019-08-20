@@ -1,0 +1,28 @@
+PurchasedStatue: '&aYou have successfully purchased a statue!'
+BroadcastMessage: '&e[username] &ahas purchased a statue at &c/statues&a!'
+NotEnoughMoney: '&cSorry, but you do not own enough money to perform this action!'
+AlreadyOwnStatue: '&cYou already own the maximum statues that can be purchased.'
+CannotEquipAir: '&cSorry, but you cannot equip your statue with air.'
+NoStatuesOwned: '&cSorry, but you not currently own a statue to use this command!'
+EquipedMessage: '&aYou have equipped this item.'
+UnequipedMessage: '&aYou have unequipped this item.'
+EquipCommandCost: 150.0
+UnequipCommandCost: 150.0
+NoStatuesPurchased: '&cSorry, but you need to own a statue to perform this action!'
+StatueDoesNotExist: '&cSorry, but the statue you are trying to edit does not exist!'
+NeedHoldAir: '&cSorry, but you can''t be holding anything to unequip.'
+StatueCreatePrice: 200.0
+StatueCreated: '&aYou have successfully created a statue.'
+TypeHelp: '&aUse &c/statue help &afor help.'
+NoPermission: '&cSorry, but you do not have permission to use this command.'
+EnabledLookClose: '&aYour statue will now lookclose.'
+DisabledLookClose: '&aYour statue will no longer lookclose.'
+TpHere: '&aYour statue has teleported to you.'
+StatueRemoved: '&aYou have successfully removed your statue.'
+NPCCantUnequipAir: '&cSorry, but you cannot unequip your statue if it isn''t holding an item.'
+
+HelpMessage:
+  - 'This'
+  - 'Is'
+  - 'A'
+  - 'Test'

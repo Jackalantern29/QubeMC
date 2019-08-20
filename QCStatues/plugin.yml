@@ -1,0 +1,9 @@
+name: 'QCStatues'
+author: 'Jackalantern29'
+version: 1.0
+main: com.Jackalantern29.QCStatues.QubeCraft
+depend: [Citizens, Vault]
+commands:
+  equip:
+  unequip:
+  statue:
