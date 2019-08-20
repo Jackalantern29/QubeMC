@@ -1,0 +1,12 @@
+PreTeleport: '&6Teleportation will commence in &c5&6. Don''t move.'
+Teleport: '&6Teleporting...'
+TeleportCancelled: '&4Teleport has been cancelled.'
+Commencing: '&6Commancing...'
+
+PreWildTeleport: '&6Teleportation will commence in &c5&6. Don''t move.'
+WildTeleport: '&6Teleporting...'
+WildTeleportCancelled: '&4Teleport has been cancelled.'
+WildCooldown: 5
+WildExtendedCooldown: 10
+WildCommencing: '&6Commencing...'
+WildCooldownMessage: '&6This command is currently on a cooldown for &c%time%&6.'

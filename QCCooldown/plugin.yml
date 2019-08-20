@@ -1,0 +1,5 @@
+name: QCCooldown
+version: 1.1.1
+description: Add cooldowns for certain commands
+main: com.Jackalantern29.QCCooldown.QubeMC
+author: Jackalantern29
