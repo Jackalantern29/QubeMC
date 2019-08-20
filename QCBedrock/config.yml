@@ -1,0 +1,5 @@
+#This message will be displayed when a player successfully mined a bedrock.
+#If ths message equals "none", the message will not be displayed. This does support '&'.
+MineSuccess: 'none'
+NotEnoughExp: 'none'
+Level1Mine: 'none'
