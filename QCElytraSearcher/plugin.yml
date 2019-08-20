@@ -1,0 +1,5 @@
+name: QCElytraSearcher
+version: 1.0
+description: Searches for Elytra wings in itemframes
+main: com.Jackalantern29.QCElytraSearcher.QubeMC
+author: Jackalantern29
