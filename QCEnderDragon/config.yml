@@ -1,0 +1,13 @@
+BroadcastMessage: "&f[&5EnderDragon&f] Slayed by %player%. Most damage by %damager% with %damage% damage done."
+DragonKillerStatueID: 0
+DragonDamagerStatueID: 1
+DragonKillerSign:
+  World: world
+  X: -15
+  Y: 66
+  Z: 9
+DragonDamagerSign:
+  World: world
+  X: -9
+  Y: 66
+  Z: 15

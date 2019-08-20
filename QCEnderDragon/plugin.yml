@@ -1,0 +1,6 @@
+name: QCEnderDragon
+version: 1.0
+description: QCEnderDragon
+main: com.Jackalantern29.QCEnderDragon.QubeCraft
+author: Jackalantern29
+depend: [Citizens]
