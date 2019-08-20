@@ -1,0 +1,10 @@
+name: QCDeathMessages
+version: 1.0
+description: Allows players to toggle seeing death messages.
+main: com.Jackalantern29.DeathMessages.QubeCraft
+author: Jackalantern29
+commands:
+  deathmessage:
+    description: DeathMessages Command
+    usage: /<command>
+    aliases: [dmsg, deathmsg]
