@@ -1,0 +1,7 @@
+name: QCBounty
+main: com.Jackalantern29.QCBounty.QubeCraft
+description: QCBounty
+version: 1.0
+author: Jackalantern29
+commands:
+  bounty:
