@@ -1,0 +1,7 @@
+name: 'QCTab'
+author: 'Jackalantern29'
+version: 2.0
+main: com.Jackalantern29.QCTab.QubeMC
+softdepend: [Factions, Vault]
+commands:
+  tab:
