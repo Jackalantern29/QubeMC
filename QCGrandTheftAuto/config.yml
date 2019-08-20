@@ -1,0 +1,21 @@
+PayNSpreyCost: 500.0
+PayNSpreySuccessMsg: "&aYou are no longer wanted."
+
+Time: "00:00:00"
+PlayerSetHouse: "&aYou have successfully set your /house at your current location!"
+PlayerIsNotInHouseToSetHouse: "&aYou need to be at your house to use /sethouse!"
+PlayerDoesntOwnHouse: "&aYou need to own a house to use that feature!"
+RentExecuted: "&aYou have payed $%amount% of rent!"
+NotEnoughtToPayRent: "&aYou did not have enough to pay rent, and no longer own a house."
+PurchasedHouse: "&aYou have successfully purchased a house!"
+NotEnoughMoneyToPurchaseHouse: "&aYou could not purchase this house. You do not have enough money."
+CannotEnterHouseAlreadyOwned: "&9You cannot enter this house. Player &c%owner% &9owns this house."
+HouseIsAvailable: "&9No one owns this house. It is available to be purchased."
+LeaveHouseMessage: "&9Come back home soon."
+EnterHouseMessage: "&9Welcome back to your house."
+
+TeleportTime: 5
+PreTeleport: '&6Teleportation will commence in &c%time%&6. Don''t move.'
+Teleport: '&6Teleporting...'
+TeleportCancelled: '&4Teleport has been cancelled.'
+Commencing: '&6Commancing...'

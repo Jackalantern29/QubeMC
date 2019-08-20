@@ -1,0 +1,11 @@
+name: QCGrandTheftAuto
+version: 1.0.2
+description: GrandTheftAuto QubeCraft
+main: com.Jackalantern29.QCGrandTheftAuto.QubeMC
+author: Jackalantern29
+depend: [WorldGuard, WGCustomFlags, WGRegionEvents, Vault]
+softdepend: [WorldEdit]
+commands:
+  house:
+  sethouse:
+  sellhouse:
