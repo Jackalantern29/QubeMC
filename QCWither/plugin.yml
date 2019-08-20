@@ -1,0 +1,7 @@
+name: QCWither
+version: 1.0
+description: QCWither
+main: com.Jackalantern29.QCWither.QubeCraft
+author: Jackalantern29
+commands:
+    wither:
