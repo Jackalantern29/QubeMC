@@ -1,0 +1,12 @@
+name: QubeGems
+main: com.Jackalantern29.QubeGems.QubeMC
+version: 1.0
+author: Jackalantern29
+
+commands:
+  qubegems:
+    description: GiveQC Command.
+    usage: /<command>
+    aliases: [qg]
+  givequbegems:
+    aliases: [giveqg]
