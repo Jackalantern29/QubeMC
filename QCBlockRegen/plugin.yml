@@ -1,0 +1,5 @@
+name: QCBlockRegen
+version: 1.0
+description: Regen Blocks
+main: com.Jackalantern29.BlockRegen.QubeCraft
+author: Jackalantern29
